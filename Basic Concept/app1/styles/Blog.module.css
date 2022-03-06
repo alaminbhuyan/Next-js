@@ -1,0 +1,14 @@
+.mypost {
+    padding: 5px;
+}
+
+.postTitle {
+    color: red;
+    text-align: center;
+    padding: 5px;
+}
+
+.postBody {
+    color: green;
+    padding: 5px;
+}

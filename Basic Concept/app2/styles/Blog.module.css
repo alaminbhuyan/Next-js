@@ -1,0 +1,29 @@
+.mypost {
+    padding: 5px;
+}
+
+.postTitle {
+    color: red;
+    text-align: center;
+    padding: 5px;
+    display: inline-block;
+    margin-left: 8px;
+}
+
+.postTitle:hover{
+    color: blue;
+}
+
+.postBody {
+    color: green;
+    padding: 5px;
+}
+
+.ID {
+    color: black;
+    display: inline-block;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 50px;
+    background-color: pink;
+}
